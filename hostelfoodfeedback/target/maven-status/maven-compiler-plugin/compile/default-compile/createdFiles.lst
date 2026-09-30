@@ -1,0 +1,13 @@
+com\hostelfood\dao\UserDAO.class
+com\hostelfood\entity\Student.class
+com\hostelfood\util\HibernateUtil.class
+com\hostelfood\service\SuggestionService.class
+com\hostelfood\dao\FeedbackDAO.class
+com\hostelfood\service\FeedbackService.class
+com\hostelfood\entity\User.class
+com\hostelfood\Main.class
+com\hostelfood\dao\MenuSuggestionDAO.class
+com\hostelfood\entity\Feedback.class
+com\hostelfood\dao\StudentDAO.class
+com\hostelfood\service\LoginService.class
+com\hostelfood\entity\MenuSuggestion.class
